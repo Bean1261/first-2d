@@ -23,6 +23,7 @@ public partial class MainMenu : CanvasLayer
         GD.Print("打开设置菜单");
     }
 
+
     private void OnQuitPressed()
     {
         // 退出游戏
